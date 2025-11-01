@@ -1,0 +1,10 @@
+pyrogram
+telethon
+beautifulsoup4
+requests
+selenium
+fpdf
+Pillow
+sqlite3
+PyGithub
+python-dotenv
